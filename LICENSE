@@ -1,0 +1,94 @@
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+SYARAT DAN KETENTUAN PENGGUNAAN, REPRODUKSI, DAN DISTRIBUSI
+
+   1. Definisi.
+
+       "Lisensi" berarti syarat dan ketentuan penggunaan, reproduksi,
+       dan distribusi sebagaimana didefinisikan oleh Bagian 1 sampai 9 dokumen ini.
+
+       "Pemberi Lisensi" berarti pemilik hak cipta atau entitas yang diberi wewenang oleh
+       pemilik hak cipta yang memberikan Lisensi.
+
+       "Badan Hukum" berarti penyatuan entitas yang bertindak dan semuanya
+       entitas lain yang mengendalikan, dikendalikan oleh, atau dimiliki bersama
+       kontrol dengan entitas itu. Untuk tujuan definisi ini,
+       "kendali" berarti (i) kekuasaan, langsung atau tidak langsung, untuk menyebabkan
+       pengarahan atau pengelolaan entitas tersebut, baik melalui kontrak atau
+       sebaliknya, atau (ii) kepemilikan lima puluh persen (50%) atau lebih
+       saham yang beredar, atau (iii) Beneficial Ownership dari entitas tersebut.
+
+       "Anda" (atau "Milik Anda") berarti individu atau Badan Hukum
+       menggunakan izin yang diberikan oleh Lisensi ini.
+
+       Formulir "Sumber" berarti formulir yang dipilih untuk melakukan modifikasi,
+       termasuk namun tidak terbatas pada kode sumber perangkat lunak, dokumentasi
+       sumber, dan file konfigurasi.
+
+       Bentuk “objek” adalah segala bentuk yang dihasilkan dari mekanis
+       transformasi atau terjemahan bentuk Sumber, termasuk tetapi
+       tidak terbatas pada kode objek yang dikompilasi, dokumentasi yang dihasilkan,
+       dan konversi ke jenis media lainnya.
+
+       "Karya" berarti karya kepenulisan, baik dalam Sumber atau
+       Formulir objek, disediakan di bawah Lisensi, seperti yang ditunjukkan oleh a
+       pemberitahuan hak cipta yang disertakan atau dilampirkan pada karya
+       (contoh diberikan dalam Lampiran di bawah).
+
+       "Karya Turunan" berarti setiap karya, baik Sumber maupun Objek
+       bentuk, yang didasarkan pada (atau berasal dari) Karya dan yang untuknya
+       revisi editorial, anotasi, elaborasi, atau modifikasi lainnya
+       mewakili, secara keseluruhan, karya asli kepenulisan. Untuk tujuan
+       Lisensi ini, Karya Turunan tidak akan mencakup karya yang tersisa
+       dipisahkan dari, atau hanya menghubungkan (atau mengikat dengan nama) ke interface dari,
+       Karya dan Karya Turunannya.
+
+       "Kontribusi" berarti setiap karya kepenulisan, termasuk
+       versi asli Karya dan modifikasi atau tambahan apa pun
+       terhadap Ciptaan itu atau Karya Turunannya, yaitu dengan sengaja
+       diserahkan kepada Pemberi Lisensi untuk disertakan dalam Karya oleh pemilik hak cipta
+       atau oleh orang perseorangan atau Badan Hukum yang diberi kuasa untuk menyerahkan atas nama
+       pemilik hak cipta. Untuk tujuan definisi ini, "diserahkan"
+       berarti segala bentuk komunikasi elektronik, lisan, atau tertulis yang dikirim
+       kepada Pemberi Lisensi atau perwakilannya, termasuk namun tidak terbatas pada
+       komunikasi pada milis elektronik, sistem kontrol kode sumber,
+       dan mengeluarkan sistem pelacakan yang dikelola oleh, atau atas nama, the
+       Pemberi Lisensi untuk tujuan mendiskusikan dan meningkatkan Karya, tetapi
+       tidak termasuk komunikasi yang ditandai secara mencolok atau sebaliknya
+       ditunjuk secara tertulis oleh pemilik hak cipta sebagai "Bukan Sumbangan".
+
+       "Kontributor" berarti Pemberi Lisensi dan setiap individu atau Badan Hukum
+       atas nama siapa Kontribusi telah diterima oleh Pemberi Lisensi dan
+       kemudian digabungkan dalam Pekerjaan.
+
+    2. Pemberian Lisensi Hak Cipta. Tunduk pada syarat dan ketentuan dari
+       Lisensi ini, setiap Kontributor dengan ini memberikan kepada Anda suatu
+       di seluruh dunia, non-eksklusif, tanpa biaya, bebas royalti, tidak dapat dibatalkan
+       lisensi hak cipta untuk mereproduksi, menyiapkan Karya Turunan dari,
+       menampilkan secara publik, melakukan secara publik, mensublisensikan, dan mendistribusikannya
+       Karya dan Karya Turunan tersebut dalam bentuk Sumber atau Objek.
+
+    3. Pemberian Lisensi Paten. Tunduk pada syarat dan ketentuan dari
+       Lisensi ini, setiap Kontributor dengan ini memberikan kepada Anda suatu
+       di seluruh dunia, non-eksklusif, tanpa biaya, bebas royalti, tidak dapat dibatalkan
+       (kecuali sebagaimana dinyatakan dalam bagian ini) lisensi paten untuk membuat, telah membuat,
+       menggunakan, menawarkan untuk menjual, menjual, mengimpor, dan mengalihkan Karya,
+       di mana lisensi tersebut hanya berlaku untuk klaim paten yang dapat dilisensikan
+       oleh Kontributor tersebut yang pasti dilanggar oleh mereka
+       Kontribusi sendiri atau kombinasi dari Kontribusi mereka
+       dengan Karya yang kepadanya Sumbangan tersebut diserahkan. Jika kamu
+       melembagakan litigasi paten terhadap entitas apa pun (termasuk a
+       klaim silang atau gugatan balik dalam gugatan) yang menyatakan bahwa Ciptaan tersebut
+       atau suatu Kontribusi yang tergabung dalam Karya merupakan Kontribusi langsung
+       atau pelanggaran paten tambahan, maka lisensi paten apa pun
+       diberikan kepada Anda berdasarkan Lisensi ini untuk Karya tersebut akan berakhir
+       sejak tanggal gugatan tersebut diajukan.
+
+    4. Redistribusi. Anda dapat mereproduksi dan mendistribusikan salinan dari
+       Karya atau Karya Turunannya dalam media apa pun, dengan atau tanpa
+       modifikasi, dan dalam bentuk Sumber atau Objek, asalkan Anda
+       memenuhi kondisi berikut:
+
+       (a) Anda harus memberikan
